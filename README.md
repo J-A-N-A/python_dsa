@@ -1,2 +1,2 @@
 # python_dsa
-practising python data structures and algorithms
+contains Data structures and Algorithms implemented in python
